@@ -38,7 +38,7 @@ if ( isset( $_POST["bEmail"] ) ) {
 }
 
 //Add your email here
-$EmailTo = "ithemeslab@gmail.com";
+$EmailTo = "nomadtranscription@gmail.com";
 $subject = "New booking received from: { $bName } ";
 // prepare email body text
 $msgBody = "";
