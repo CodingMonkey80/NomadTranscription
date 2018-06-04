@@ -1,0 +1,28 @@
+<!-- https://cookieconsent.insites.com/download/ -->
+<!-- Cookie Consent -->
+<!-- Add the code just before the </head> -->
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000"
+    },
+    "button": {
+      "background": "transparent",
+      "border": "#bc9355",
+      "text": "#bc9355"
+    }
+  },
+  "position": "bottom-left",
+  "content": {
+    "message": "This site uses cookies and by using the site you are consenting to this. Find out why we use cookies and how to manage your settings.  ",
+    "dismiss": "Go ahead",
+    "link": "View cookie policy",
+    "href": "www.nomadtranscription.com/cookie-policy.html"
+  }
+})});
+</script>
+<!-- End Cookie Consent -->
