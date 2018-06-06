@@ -729,12 +729,13 @@ window.cookieconsent.initialise({
                     </div> <!-- /.col -->
                     <div class="col-md-6">
                         <!-- booking form start -->
-                        <form id="booking-form" class="booking-form" data-toggle="validator">
+                        <!-- <form id="booking-form" class="booking-form" data-toggle="validator"> -->
+				<form name="contact" method="POST" netlify>
                            <!-- /.col -->
                            <!-- /.row -->
                             <div class="row mb15">
                                 <div class="col-md-6">
-                                    <select class="form-control" id="book-service" required data-error="Choose a service">
+                                    <select class="form-control" name="book-service" required data-error="Choose a service">
                                         <option value="">Service</option>
                                         <option value="Podcast Transcription">Podcast Transcription</option>
                                         <option value="Closed Captions">Closed Captions</option>
@@ -743,7 +744,7 @@ window.cookieconsent.initialise({
                                     <div class="help-block with-errors"></div>
                                 </div> <!-- /.col -->
                                 <div class="col-md-6">
-                                    <select class="form-control" id="book-stylist" required data-error="Choose a stylist">
+                                    <select class="form-control" name="choose-turnaround" required data-error="Choose a turnaround">
                                         <option value="">Turn Around</option>
                                         <option value="3 Business Days">3 Business Days</option>
                                         <option value="24 Hours">24 Hours</option>
@@ -755,13 +756,13 @@ window.cookieconsent.initialise({
                             <div class="row">
                                 <div class="col-md-6">
                                     <div class="form-group">
-                                        <input type="text" class="form-control" id="book-name" placeholder="Name" required data-error="Enter your name">
+                                        <input type="text" class="form-control" name="book-name" placeholder="Name" required data-error="Enter your name">
                                         <div class="help-block with-errors"></div>
                                     </div>
                                 </div> <!-- /.col -->
                                 <div class="col-md-6">
                                     <div class="form-group">
-                                        <input type="text" class="form-control" id="book-phone" placeholder="Link To Show" required data-error="Enter a link to the show">
+                                        <input type="text" class="form-control" name="shows-link" placeholder="Link To Show" required data-error="Enter a link to the show">
                                         <div class="help-block with-errors"></div>
                                     </div>
                                 </div> <!-- /.col -->
@@ -769,7 +770,7 @@ window.cookieconsent.initialise({
                             <div class="row">
                                 <div class="col-md-12">
                                     <div class="form-group">
-                                        <input type="email" class="form-control" id="book-email" placeholder="Email" required data-error="Enter your email address">
+                                        <input type="email" class="form-control" name="book-email" placeholder="Email" required data-error="Enter your email address">
                                         <div class="help-block with-errors"></div>
                                     </div>
                                 </div> <!-- /.col -->
@@ -777,7 +778,7 @@ window.cookieconsent.initialise({
                             <div class="row">
                                 <div class="col-md-6 col-md-offset-3">
                                     <div class="form-group">
-                                        <button type="submit" class="btn btn-primary hvr-in" id="book-submit">Get Quote</button>
+                                        <button type="submit" class="btn btn-primary hvr-in" name="book-submit">Get Quote</button>
                                     </div>
                                 </div> <!-- /.col -->
                             </div> <!-- /.row -->
