@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title> Why you should attach a transcript to your podcast | Nomad Transcription</title>
+        <meta name="description" content="Blog Posts Content">
+	<meta name="keywords" content="Podcast Transcription,Transcribe Podcasts,Affordable Transcription For Podcasts,Closed Captions For YouTube, Affordable Podcast Transcription Service">
+        <meta name="robots" content="index, follow">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- OG Tags -->
+	<html itemscope itemtype="http://schema.org/Organization">
+	<!-- Place this data between the <head> tags of your website -->
+	<title>Nomad Transcription</title>
+	<meta name="description" content="Online podcast transcription and closed captions services." />
+	<!-- Schema.org markup for Google+ -->
+	<meta itemprop="name" content="Nomad Transcription">
+	<meta itemprop="description" content="Online podcast transcription and closed captions services.">
+	<meta itemprop="image" content="https://nomadtranscription.com/assests/images/socialshareimage.jpg">
+	<!-- Twitter Card data -->
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:site" content="@NomadTranscript" />
+	<meta name="twitter:title" content="Nomad Transcription" />
+	<meta name="twitter:description" content="Online podcast transcription and closed captions services." />
+	<meta name="twitter:image" content="https://nomadtranscription.com/assests/images/socialshareimage.jpg" />
+	<!-- Open Graph data -->
+	<meta property="og:title" content="Nomad Transcription" />
+	<meta property="og:type" content="Website" />
+	<meta property="og:url" content="https://www.nomadtranscription.com/" />
+	<meta property="og:image" content="https://nomadtranscription.com/assests/images/socialshareimage.jpg" />
+	<meta property="og:description" content="Online podcast transcription and closed captions services." />
+	<meta property="og:site_name" content="Nomad Transcription" />
+	<meta property="og:price:amount" content="0.50" />
+	<meta property="og:price:currency" content="GBP" />
+	<!-- OG tags -->
+
+        <!-- favicons -->
+        <link rel="shortcut icon" href="assets/favicon/favicon-2.ico">
+        <link rel="apple-touch-icon" href="assets/favicon/apple-icon-57x57-2.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="assets/favicon/apple-icon-72x72-2.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="assets/favicon/apple-icon-114x114-2.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="assets/favicon/apple-icon-144x144-2.png">
+    
+        <!-- load google font -->
+        
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700%7cPlayfair+Display:400,700" rel="stylesheet">
+        
+        <!-- all stylesheets include start -->
+        <!-- bootstrap v3.3.7 css -->
+        <link rel="stylesheet" href="assets/css/vendor/bootstrap.min.css">
+        <!-- revolution slider css -->
+        <link rel="stylesheet" href="assets/css/vendor/rev_slider/settings.css">
+        <link rel="stylesheet" href="assets/css/vendor/rev_slider/navigation.css">
+        <!-- fontawesome css -->
+        <link rel="stylesheet" href="assets/css/vendor/font-awesome.min.css">
+        <!-- flaticon css -->
+        <link rel="stylesheet" href="assets/fonts/flaticon/flaticon.css">
+        <!-- magnific popup css -->
+        <link rel="stylesheet" href="assets/css/vendor/magnific-popup.css">
+        <!-- OwlCarousel css -->
+        <link rel="stylesheet" href="assets/css/vendor/owl.carousel.css">
+        <link rel="stylesheet" href="assets/css/vendor/owl.theme.css">
+        <!-- theme style css -->
+        <link rel="stylesheet" href="assets/css/style.css">
+        <!-- responsive css -->
+        <link rel="stylesheet" href="assets/css/responsive.css">
+        <!-- all stylesheets include end -->
+		<!-- Cookie Consent -->
+<!-- Add the code just before the </head> -->
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000"
+    },
+    "button": {
+      "background": "transparent",
+      "border": "#bc9355",
+      "text": "#bc9355"
+    }
+  },
+  "position": "bottom-left",
+  "content": {
+    "message": "This site uses cookies and by using the site you are consenting to this. Find out why we use cookies and how to manage your settings.  ",
+    "dismiss": "Go ahead",
+    "link": "View cookie policy",
+    "href": "www.nomadtranscription.com/cookie-policy.html"
+  }
+})});
+</script>
+<!-- End Cookie Consent -->
+    </head>
+    <body>
+        
+        <!-- header start -->
+        <div class="header navbar-fixed-top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <!-- bootstrap-navbar start -->
+                        <nav class="navbar navbar-default">
+                            <div class="container-fluid">
+                                
+                                <div class="navbar-header">
+                                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                                        <span class="sr-only">Toggle navigation</span>
+                                        <span class="icon-bar"></span>
+                                        <span class="icon-bar"></span>
+                                        <span class="icon-bar"></span>
+                                    </button>
+                                    <a class="navbar-brand" href="index.html">
+                                        <img src="assets/images/others/white-logo.png" alt="">
+                                    </a>
+                                </div> <!--/.navbar-header-->
+
+                                <!-- Collect the nav links, forms, and other content for toggling -->
+                                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                                    <div class="top-right-contact text-right pull-right hidden-sm hidden-xs">
+                                        <i class="fa fa-phone-square"></i> 1334-4678-9015
+                                    </div> <!--top-right-contact-->
+                                    <ul class="nav navbar-nav">
+                                        <li class="active"><a href="index.html">Home</a></li>
+                                        <li><a href="about.html">About</a></li>
+					<li><a href="service-2-col.html">Services</a></li>
+                                        <li><a href="booking.html">Booking</a></li>
+                                        <li class="dropdown">
+                                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Pages</a>
+                                            <ul class="dropdown-menu">
+						<li><a href="pricing.html">Pricing</a></li>
+                                                <li><a href="FAQ.html">FAQ</a></li>
+                                                <li><a href="terms-and-conditions.html">Terms & Conditions</a></li>
+                                                <li><a href="cookie-policy.html">Cookie Policy</a></li>
+                                                </ul>
+                                        </li>
+					<li><a href="blog.html">Blog</a></li>
+					<li><a href="contact-2.html">Contact</a></li>
+                                    </ul>
+                                       </div><!-- /.navbar-collapse -->
+                            </div> <!-- /.container-fluid -->
+                        </nav>
+                        <!-- bootstrap-navbar end -->
+
+                    </div> <!--/.col-->
+                    
+                </div> <!--/.row-->
+            </div> <!--/.container-->
+        </div>
+        <!-- header end -->
+
+        <!-- mass-head start -->
+        <div class="mass-head mass-head-pad text-center parallax mass-head-bg-2">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="mass-head-content">
+                            <img class="img-responsive" src="assets/images/others/mass-head-logo.png" alt="">
+                            <h2 class="page-title">Attach A Transcript To Your Podcast?</h2>
+                        </div>
+                    </div> <!--/.col-->
+                </div> <!--/.row-->
+            </div>  <!--/.container-->
+            <!-- mass-head-icon start -->
+            <div class="mass-head-icon">
+                <i class="fa fa-empire" aria-hidden="true"></i>
+            </div>
+            <!-- mass-head-icon end -->
+        </div>
+        <!-- mass-head end -->
+        
+        <!-- about area start -->
+        <div class="about-area bg-color-1 pad80">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="section-title text-center">
+                            <img src="assets/images/title-img/title-img-2.png" class="title-img mb15" alt="">
+                            <h3 class="title"><strong>Blog Title</strong></h3>
+                            <p class="sub-title">Podcast transcription & YouTube closed captions services under one roof</p>
+                        </div>
+                    </div> <!-- /.col -->
+                </div> <!-- /.row -->
+            </div> <!--/.container-->
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <img class="img-responsive xs-mb30" src="assets/images/others/about-us-image.jpg" alt="">
+                    </div> <!-- /.col -->
+                    <div class="col-md-6">
+                        <p>Since 2016 the driving force behind Nomad Transcription dolor sit amet, ex option timeam antiopam cum. An autem eruditi ius, vim tation epicuri verterem id. Ei duo prompta maiorum eloquentiam, ei pri dolor evertitur necessitatibus. Eu postea aliquid mea, eu cum ludus solet forensibus, no docendi volutpat dignissim eum. Eu nam stet congue.An autem eruditi ius, vim tation epicuri verterem id. Ei duo prompta maiorum eloquentiam, ei pri dolor evertitur necessitatibus. Eu postea aliquid mea, eu cum ludus solet.</p>
+                        <ul class="fa-ul">
+                            <li><img src="assets/images/icons/mini-nomad-mountain.png" alt=""> Lorem ipsum dolor sit amet, consectetur </li>
+                            <li><img src="assets/images/icons/mini-nomad-mountain.png" alt=""> Lorem ipsum dolor sit amet, consectetur </li>
+                            <li><img src="assets/images/icons/mini-nomad-mountain.png" alt=""> Lorem ipsum dolor sit amet, consectetur </li>
+                        </ul>
+                    </div> <!-- /.col -->
+                </div> <!-- /.row -->
+            </div> <!--/.container-->
+        </div>
+        <!-- service area end -->
+	    
+	 <!-- career page start -->
+        <div class="career-page bg-color-1 pad0">
+            <div class="container">
+                    
+                <div class="row mt60">
+                    <div class="col-xs-12">
+                        <p><h4 class="inner-title">The Importance of Attaching a Transcript to Your Podcast</h4></p>
+<br>
+<p>Do you listen to podcasts? If you do, you’re not alone. Podcasts are growing in popularity faster than ever before.</p>
+<br>
+<p><h4 class="inner-title">The growing popularity of podcasts</h4></p><br>
+<p>Here’s a couple of interesting statistics about the popularity of podcasts in 2018:<br>
+112 million Americans listened to a podcast, up 11% in one year<br>
+67 million Americans listen to podcasts monthly—that’s 24% of all Americans age 12+<br>
+42 million Americans listen to podcasts weekly, or 5x more than go to the movies weekly<br>
+Podcast fans listen to 5 shows per week on average<br>
+<br>
+Just by looking at the numbers you can see that people who listen to podcasts podcast have been increasing for quite some time now. The improvements in both car and home audio devices have made audiences more receptive.
+<br>
+But, if we’re to be honest, podcasts are also just kind of cool.</p>
+<br>
+<p><h4 class="inner-title">What podcasters can do even better</h4></p>
+<br>
+<p>Okay, for the most part podcasters have not suddenly found themselves swimming in subscribers. In 2017, 54% of all audio listening time still went to AM/FM radio and 15% to owned music and streaming audio (each). BBC Radio (in the UK) boasts 35 million listeners weekly. Podcasts, by comparison, are being listened to by 8% of UK adults.<br>
+<br>
+Podcasts are still on the rise, but it’s not a solid and sustainable business model yet. That’s why podcasters should be doing everything they can to give their listeners a better first impression.
+<br>
+The simple truth is that podcasts just don’t play nice with search engines - until now.</p>
+<p><h4 class="inner-title">The problem with podcasts</h4></p>
+<br>
+<p>I’m guessing that you’ve used a search engine before. So you know how you can search for something by headline, subheader, or even a sentence anywhere in the text just by typing it into a search engine like Google? That SEO transparency is the sole reason why written content continues to dominate the internet.
+<br>
+At one time it was hard to search for pictures, but then along came Google image search. It’s next to impossible to search for specific parts of video or audio content like podcasts. In fact,stuff it, it IS impossible given the current state of search engines.
+<br>
+That’s why it’s suggested so strongly for podcasters to include transcripts with their podcasts. Adding a transcript to each episode podcast will:
+<br>
+Allow search engines to properly index episodes, leading to improved search visibility
+<br>
+Increase the podcast’s rank on search engine results pages (SERPs) for those keywords
+<br>
+Increase the overall ranking of that website domain in SERPs for those keywords
+<br>
+Give visitors another much-needed option for viewing the episode
+<br>
+This now all leads to another very important question: What’s the most effective way to add a transcript to your podcast?</p>
+<br>
+<p><h4 class="inner-title">How to add transcripts to podcasts</h4></p>
+<br>
+<p>Here are some simple pointers on how to start adding transcripts to your podcasts:
+<br>
+<strong>Make sure to include timestamps in your transcription.</strong> You’d be surprised at the number of podcasters who don’t bother doing this. If you don’t include timestamps, it’s really hard for a reader to go to the corresponding part of the audio.
+<br>
+<strong>When possible, don’t just copy and paste a transcript—format it like a blog post.</strong> That means editing, adding in subheads, etc. Search engines give blog-like posts far more weight than unedited or poorly formatted transcriptions.
+<br>
+<strong>Don’t try to reduce costs by automating transcription.</strong> Some transcription services are still labor-intensive, requiring the skills of a professional. Others use AI-supported transcription. The first option tends to be a lot more effective.
+<br>
+<p><h4 class="inner-title">Convenience is the key</h4></p>
+<br>
+<p>Podcasters have a lot going for them these days, and they can confidently look forward to growing audiences and increasing engagement. But they still have to work within and respect the limitations of search engines if they want to be discovered.
+<br>
+Keep in mind that even if Google, Bing and other search engines do add audio and video search functionality at some point in the future—transcripts will still be useful. It’s hard to beat a neat transcript when it comes to quick scanning and content consumption.
+<br>
+For more on how to transcribe your podcast using Nomad Transcription, shoot us a <a href =”contact-2.html”>shoot us a quick message</a>.</p>
+                        </div> <!-- /.col -->
+                </div> <!-- /.row -->
+		     <!-- Social Share BUttons -->
+<style type="text/css">
+ 
+#share-buttons img {
+width: 70px;
+padding: 5px;
+border: 0;
+box-shadow: 0;
+display: inline;
+}
+ 
+</style>
+
+<div id="share-buttons">
+
+    <!-- Email -->
+    <a href="mailto:?Subject=Nomad Transcription Blog Post&amp;Body=I%20saw%20this%20and%20thought%20of%20you!%20 https://nomadtranscription.com/BLOG NAME">
+        <img src="https://www.nomadtranscription.com/assets/images/social-share-images/email-share.png" alt="Email" />
+    </a>
+   <!-- Facebook -->
+    <a href="http://www.facebook.com/sharer.php?u=https://nomadtranscription.com/BLOG NAME" target="_blank">
+        <img src="https://www.nomadtranscription.com/assets/images/social-share-images/facebook-share.png" alt="Facebook" />
+    </a>
+     <!-- Google+ -->
+    <a href="https://plus.google.com/share?url=https://nomadtranscription.com/BLOG NAME" target="_blank">
+        <img src="https://www.nomadtranscription.com/assets/images/social-share-images/g-plus-share.png" alt="Google" />
+    </a>
+    <!-- LinkedIn -->
+    <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://nomadtranscription.com/BLOG NAME" target="_blank">
+        <img src="https://www.nomadtranscription.com/assets/images/social-share-images/linkedin-share.png" alt="LinkedIn" />
+    </a>
+    <!-- Twitter -->
+    <a href="https://twitter.com/share?url=https://nomadtranscription.com/BLOG NAME&amp;text=We're%20Nomad%20Transcription&amp;hashtags=PodcastTranscription" target="_blank">
+        <img src="https://www.nomadtranscription.com/assets/images/social-share-images/twitter-share.png" alt="Twitter" />
+    </a>
+    </div>
+<!-- /Social Share BUttons --> 
+            </div> <!--/.container-->
+        </div>
+        <!-- career page end -->
+	   
+	    
+	    <!-- Comments Section Start -->
+        <div class="career-page bg-color-1 pad50">
+            <div class="container">
+                    
+                <div class="row mt60">
+                    <div class="col-xs-12">
+                        <div id="disqus_thread"></div>
+<script>
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://nomad-transcription-1.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+			</div> <!-- /.col -->
+                </div> <!-- /.row -->
+            </div> <!--/.container-->
+        </div>
+        <!-- Comments end -->
+        
+         <!-- Single Blog Page Comments
+            ================================== -->
+	    
+	    
+          
+
+        <!-- footer start -->
+        <div class="footer bg-color-2 pad80 text-center">
+            <div class="container">
+                <div class="row mb30">
+                    <div class="col-md-12">
+                        <div class="footer-logo">
+                            <img src="assets/images/others/footer-logo.png" alt="" class="img-center img-responsive">
+                        </div>
+                    </div>
+                </div>
+                <div class="row mb30">
+                    <div class="col-md-5 col-sm-5">
+                        <div class="footer-contact text-right">
+                            <p>Phone: +44-7538-887097</p>
+                            <p>E-mail: info@nomadtranscription.com</p>
+                        </div>
+                    </div>
+                    <div class="col-md-2 col-sm-2">
+                        <div class="footer-icon">
+                            <div class="rotate-0deg"><img src="assets/images/icons/icon-nomad-mountains.png" alt=""></i></div>
+                        </div>
+                    </div>
+                    <div class="col-md-5 col-sm-5">
+                        <div class="footer-contact text-left">
+                            <p>King Street, Carmarthen</p>
+                            <p>Wales. UK</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="footer-social">
+                            <ul>
+                                <li><a href="https://www.instagram.com/nomadtranscription/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                                <li><a href="https://www.linkedin.com/company/nomad-transcription/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                                <li><a href="https://twitter.com/NomadTranscript" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- footer end -->
+
+        <!-- back to to btn start -->
+        <div id="back-to-top"><i class="fa fa-angle-up"></i></div>
+        <!-- back to to btn end -->
+
+        <!-- all js include start -->
+        <!-- jquery latest version -->
+        <script src="assets/js/vendor/jquery-3.1.1.min.js"></script>
+        <!-- bootstrap latest version -->
+        <script src="assets/js/vendor/bootstrap.min.js"></script>
+
+        <!-- revolution slider js files start -->
+        <script src="assets/js/vendor/rev_slider/jquery.themepunch.tools.min.js"></script>
+        <script src="assets/js/vendor/rev_slider/jquery.themepunch.revolution.min.js"></script>
+        
+        <script src="assets/js/vendor/rev_slider/extensions/revolution.extension.actions.min.js"></script>
+        <script src="assets/js/vendor/rev_slider/extensions/revolution.extension.carousel.min.js"></script>
+        <script src="assets/js/vendor/rev_slider/extensions/revolution.extension.kenburn.min.js"></script>
+        <script src="assets/js/vendor/rev_slider/extensions/revolution.extension.layeranimation.min.js"></script>
+        <script src="assets/js/vendor/rev_slider/extensions/revolution.extension.migration.min.js"></script>
+        <script src="assets/js/vendor/rev_slider/extensions/revolution.extension.navigation.min.js"></script>
+        <script src="assets/js/vendor/rev_slider/extensions/revolution.extension.parallax.min.js"></script>
+        <script src="assets/js/vendor/rev_slider/extensions/revolution.extension.slideanims.min.js"></script>
+        <script src="assets/js/vendor/rev_slider/extensions/revolution.extension.video.min.js"></script>
+        <!-- revolution slider js files end -->
+
+		<!--Mgnific popup js file-->
+        <script src="assets/js/vendor/jquery.magnific-popup.min.js"></script>
+        <!--Appear js file-->
+        <script src="assets/js/vendor/jquery.appear.js"></script>
+        <!--CountTo js file-->
+        <script src="assets/js/vendor/jquery.countTo.js"></script>
+		<!--Owl Carousel js file-->
+        <script src="assets/js/vendor/owl.carousel.min.js"></script>
+
+        <!-- template main js file -->
+        <script src="assets/js/main.js"></script>
+        <!-- all js include end -->
+    </body>
+</html>
